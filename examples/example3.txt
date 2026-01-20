@@ -1,0 +1,22 @@
+Input:
+--------------------------------------
+    Marketing team reviewed campaign performance. Engagement increased by 20%. New campaign ideas will be proposed in the next meeting.
+
+Output:
+  Summary:
+--------------------------------------
+    - The marketing team reviewed campaign results and discussed future plans.
+
+Key Points:
+--------------------------------------
+    - Campaign performance reviewed
+    - Engagement increased by 20%
+    - New campaign ideas planned
+
+Action Items:
+--------------------------------------
+    - Propose new campaign ideas
+
+Deadlines:
+--------------------------------------
+    - None
