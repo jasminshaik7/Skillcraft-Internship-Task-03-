@@ -1,0 +1,28 @@
+Input:
+-------------------------------------------------
+      We discussed the new app design. The UI should be completed by Friday. Rahul will handle backend APIs. Testing starts next week. Client demo scheduled on 20th July.
+
+Output:
+Summary:
+-------------------------------------------------
+    - The team discussed app design progress and upcoming milestones.
+
+Key Points:
+-------------------------------------------------
+    - New app design discussed
+    - UI to be completed by Friday
+    - Backend APIs assigned to Rahul
+    - Testing to start next week
+    - Client demo scheduled
+
+Action Items:
+-------------------------------------------------
+    - Complete UI
+    - Develop backend APIs
+    - Prepare for testing
+    - Arrange client demo
+
+Deadlines:
+-------------------------------------------------
+    - UI completion: Friday
+    - Client demo: 20th July
